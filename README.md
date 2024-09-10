@@ -20,3 +20,5 @@
 * [Business Class Template](https://businessclasskit.com/) - built-in Kamal ($169)
 * [multi-tenancy boilerplate](https://saas.corsego.com/) - Corsego's template for apps with multiple user organisations
 * [saas-boilerplates.dev](https://saasboilerplates.dev/tags/ruby-on-rails/) - various RoR boilerplates (free & paid)
+
+Also take a look at [awesome-rails](https://github.com/gramantin/awesome-rails) for more templates!
