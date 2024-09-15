@@ -1,3 +1,8 @@
+## Recommendations 🥳
+* [bullet_train](https://github.com/bullet-train-co/bullet_train) - bullet_train ('24)
+* [Jumpstart Pro](https://jumpstartrails.com/) - GoRail's super popular template (£249)
+
+
 ## Rails Templates 👷 (open source)
 
 * [rails-templates](https://github.com/lewagon/rails-templates) - Le Wagon's own ('24)
